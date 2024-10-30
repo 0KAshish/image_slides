@@ -41,7 +41,8 @@ function changeContainer(gridSize) {
 
 let small_img = document.querySelectorAll(".small-img");
 
-Array.from(small_img).forEach((x) => {
+//Array.from(small_img).forEach((x) =>
+small_img.forEach((x) => {
   x.addEventListener("click", function (e) {
     showFullimage(e.target.src, e.target.dataset.src);
   });
