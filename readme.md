@@ -33,4 +33,7 @@ An interactive and responsive **image slider/gallery** that allows users to view
 
 Let me know if you’d like to auto-generate the image grid from your images folder or add deployment instructions for GitHub Pages.
 
-
+<p align="left">
+    <img width="48%" src="./assets/image-slider1.png" alt="simple color change" />
+    <img width="48%" src="./assets/image-slider3.png" alt="hex random color generator" />
+</p>
