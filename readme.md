@@ -10,15 +10,19 @@ An interactive and responsive **image slider/gallery** that allows users to view
 
 ## 📂 Project Structure
 
-Color-Flipper/\
-├── index.html # Main simple color flipper page\
-├── /pages/\
-│ └── hex.html # Hex color flipper page\
+image-slider/\
+│\
+├── index.html # Main HTML file\
 ├── /css/\
-│ └── styles.css # Styling for the app\
+│ └── style.css # Styles for the slider\
 ├── /js/\
-│ └── script.js # JavaScript for color switching\
-└── README.md # Project documentation
+│ └── script.js # JavaScript for interactions\
+├── /img/\
+│ ├── img1.png # Sample images\
+│ ├── card1.png\
+│ ├── card2.png\
+│ └── ...\
+└── README.md # This file
 
 ---
 
